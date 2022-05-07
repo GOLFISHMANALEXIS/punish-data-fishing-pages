@@ -28,4 +28,4 @@ for i in range(50):
       threads[i].join()
 
  
-#python3 main.py
+#cmd + python3 main.py
